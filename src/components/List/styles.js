@@ -28,7 +28,7 @@ export const Container = styled.div`
       width: 42px;
       height: 42px;
       border-radius: 18px;
-      background: #3b5bfd;
+      background: #00adb5;
       border: 0;
       cursor: pointer;
     }
