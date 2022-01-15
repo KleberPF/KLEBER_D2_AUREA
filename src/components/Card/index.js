@@ -46,7 +46,6 @@ const Card = ({ data, listIndex, index }) => {
         return;
       }
 
-      console.log(draggedIndex, targetIndex);
       move(draggedListIndex, targetListIndex, draggedIndex, targetIndex);
 
       item.index = targetIndex;
